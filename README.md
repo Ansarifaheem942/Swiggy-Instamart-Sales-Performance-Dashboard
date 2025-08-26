@@ -2,6 +2,7 @@
 I created an interactive Power BI dashboard to analyze Swiggy Instamart’s sales and performance data, providing insights across sales, orders, ratings, and product categories.
 
 🔹Project Highlights
+
 Total Sales: 1.20M |
 Total Orders: 8.52K |
 Avg. Sales per Shop: 141.01 | 
@@ -26,12 +27,14 @@ Frozen Foods – 0.12M
 Dairy – 0.10M
 
 🔹 Tools & Skills Used
+
 Power BI – Dashboard creation & visualization
 DAX – Measures & calculations for KPIs
 Data Modeling – Relationship building for clean insights
 Analytical Skills – Trend analysis, category breakdown, performance comparison
 
 📌 Key Insights for Business
+
 Tier 3 cities are the strongest growth markets.
 Fruits & Vegetables and Snack Foods dominate sales.
 Decline in new shop openings signals the need for strategic focus.
