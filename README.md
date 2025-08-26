@@ -45,4 +45,4 @@ Customer satisfaction is moderate (avg. rating ~3.9), highlighting opportunities
 ## Dashboard Interactive
 - <a href="https://github.com/Ansarifaheem942/Swiggy Instamart Sales & Performance Dashboard/blob/main/Instamart_Dashboard.png">Dashboard</a>
 ## View_Dashboard
-<img width="1144" height="635" alt="Swiggy Instamart Sales & Performance Dashboard" src="https://github.com/user-attachments/assets/62cc3d9f-c43c-4240-815b-7db42c059b19" />
+<img width="1144" height="635" alt="Instamart_Dashboard.png" src="https://github.com/user-attachments/assets/62cc3d9f-c43c-4240-815b-7db42c059b19" />
