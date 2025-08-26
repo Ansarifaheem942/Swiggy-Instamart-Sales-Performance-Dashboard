@@ -41,8 +41,8 @@ Decline in new shop openings signals the need for strategic focus.
 Customer satisfaction is moderate (avg. rating ~3.9), highlighting opportunities for improvement.
 
 ## DataSet used
-- <a href="https://github.com/Ansarifaheem942/Swiggy Instamart Sales & Performance Dashboard.git">Dataset</a>
+- <a href="https://github.com/Ansarifaheem942/Swiggy-Instamart-Sales-Performance-Dashboard.git">Dataset</a>
 ## Dashboard Interactive
-- <a href="https://github.com/Ansarifaheem942/Swiggy Instamart Sales & Performance Dashboard/blob/main/Instamart_Dashboard.png">Dashboard</a>
+- <a href="https://github.com/Ansarifaheem942/Swiggy-Instamart-Sales-Performance-Dashboard/blob/main/Instamart_Dashboard.png">Dashboard</a>
 ## View_Dashboard
-<img width="1144" height="635" alt="Instamart_Dashboard.png" src="https://github.com/user-attachments/assets/62cc3d9f-c43c-4240-815b-7db42c059b19" />
+<img width="1144" height="635" alt="Instamart_Dashboard" src="https://github.com/user-attachments/assets/62cc3d9f-c43c-4240-815b-7db42c059b19" />
