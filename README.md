@@ -45,4 +45,5 @@ Customer satisfaction is moderate (avg. rating ~3.9), highlighting opportunities
 ## Dashboard Interactive
 - <a href="https://github.com/Ansarifaheem942/Swiggy-Instamart-Sales-Performance-Dashboard/blob/main/Instamart_Dashboard.png">Dashboard</a>
 ## View_Dashboard
-<img width="1144" height="635" alt="Swiggy-Instamart-Sales-Performance-Dashboard" src="E:\Power BI\Microsoft-Power-BI-Practice-File-Project-2-Grocery-Store-Data-End-to-End-Project\Microsoft Power BI - Practice File Project 2 - Grocery Store Data (End to End Project)\Instamart_Dashboard.png" />
+<img width="1156" height="650" alt="Instamart_Dashboard" src="https://github.com/user-attachments/assets/f49c0ee9-ad7a-4e43-92ab-80d3e31aa7d2" />
+
